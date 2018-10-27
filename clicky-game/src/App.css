@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  background-image: url("https://i.pinimg.com/originals/0b/37/ef/0b37efb2a9e4dbfafdb4cee273bb9379.jpg");
+
+}
+
+
+.App-header {
+  background-color: darkred;
+  background-image: url("https://secure.static.tumblr.com/71ea4445fc3201799bf5cb24c8699d7c/oszwmsj/iK5ngfr88/tumblr_static_tumblr_static_filename_640.gif");
+  background-size: 100%;
+  height: 150px;
+  padding: 30px;
+  color: white;
+}
+
+.App-title {
+  font-size: 5.0em;
+  color: red;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: x-large;
+  padding: 20px;
+  color: yellow;
+}
+
+.footer {
+  margin-top: 20px;
+  background-color: rgb(24, 21, 21);
+  color: white;
+}
+.score {
+  color: yellow;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
